@@ -1,2 +1,2 @@
 apnacollege-demo<br>
-Author - Anaswasti
+Author - Anas
